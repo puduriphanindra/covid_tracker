@@ -1,9 +1,6 @@
 # COVID TRACKER:
-     > Created a web application in ReactJs which shows live cases, recoveries, deaths 
-        country wise which is taken from disease.sh API and also used line chart to 
-        show fluctuations over days and clickable markers on map shows Country stats.
-     > The application allows users to select the country and provides information of 
-         covid cases.
+Created a web application in ReactJs which shows live cases, recoveries, deaths country wise which is taken from disease.sh API and also used line chart to show fluctuations over days and clickable markers on map shows Country stats.
+The application allows users to select the country and provides information of covid cases.
 
 
 # Getting Started with Create React App
